@@ -1,5 +1,5 @@
 ---
-title: User
+title: Avatar
 ---
 ### <span class="badge badge-get">GET</span> <span class="endpoint">/users/:id/avatar/headshot</span>
 
